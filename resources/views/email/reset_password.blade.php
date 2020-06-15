@@ -1,0 +1,1 @@
+ <p>  click vào link để lấy lại mật khẩu <a href="{{ $route }}"> </a> </p>
